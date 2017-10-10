@@ -1,0 +1,10 @@
+[I 07:20:17.526 NotebookApp] Serving notebooks from local directory: /workspace/Sunwoo
+[I 07:20:17.526 NotebookApp] 0 active kernels 
+[I 07:20:17.526 NotebookApp] The Jupyter Notebook is running at: http://0.0.0.0:8888/?token=8dd0dd156682271119cc933cec974401a8de4b9037a4a32f
+[I 07:20:17.526 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[W 07:20:17.527 NotebookApp] No web browser found: could not locate runnable browser.
+[C 07:20:17.527 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://0.0.0.0:8888/?token=8dd0dd156682271119cc933cec974401a8de4b9037a4a32f
